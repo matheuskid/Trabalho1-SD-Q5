@@ -1,0 +1,1 @@
+Sistema distribuído mínimo escrito em Java, que implementa comunicação unicast por protocolo TCP e comunicação multicast por protocolo UDP. Para representação externa dos dados, foi usado Protocol Buffers, devido a seus carater estruturado e seguro, ideal para o cenário de um sistema de votação.
